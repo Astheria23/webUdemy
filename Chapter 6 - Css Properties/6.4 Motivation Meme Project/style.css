@@ -1,0 +1,29 @@
+body{
+    background-color: #1A1A2E;
+}
+img{
+    width: 100%;
+    
+}
+.all{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.foto{
+    border: 5px solid #F2921D;
+   
+}
+h1{
+    font-family: 'Libre Baskerville', serif;
+    font-size: 3rem;
+    color: #F2921D;
+    font-weight: bold;
+    text-transform: uppercase;
+    
+}
+p{
+    color: #F2921D;
+}

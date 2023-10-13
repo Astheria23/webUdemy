@@ -1,0 +1,36 @@
+.flag{
+    background-color:rgb(206, 17, 38);;
+    height: 600px;
+    width: 900px;
+    margin: 0;
+    position: absolute;
+}
+
+.circle{
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    top: 50px;
+    left: 350px;
+}
+
+.stripes{
+    background-color:rgb(0, 40, 104);
+    position: relative;
+    height: 300px;
+    top: 60px;
+    
+}
+
+p{
+    margin: 0;
+    text-align: center ;
+    font-size: 5rem;
+    color: white
+}
+
+.flag > div > div > p {
+    color: black;
+}
+
